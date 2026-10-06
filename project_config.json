@@ -1,0 +1,11 @@
+{
+  "project_name": "Gurgaon House Price Prediction",
+  "repository_name": "gurgaon-house-price-prediction",
+  "domain": "Machine Learning / Real Estate",
+  "task": "Regression",
+  "primary_model": "RandomForestRegressor",
+  "framework": "scikit-learn",
+  "interface": "Streamlit",
+  "status": "Portfolio Ready",
+  "dataset_note": "Current supplied dataset is not verified as Gurgaon-specific."
+}

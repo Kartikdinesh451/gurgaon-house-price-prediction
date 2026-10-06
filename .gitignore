@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.DS_Store
+*.log
+# Large trained model artifacts (keep locally; do not commit to GitHub)
+models/*.pkl
+models/*.joblib
